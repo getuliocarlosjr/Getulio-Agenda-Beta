@@ -98,7 +98,7 @@ void listar() {
 		printf("\nNome: %s", agenda[i].nome);
 		printf("\nTelefone: %s", agenda[i].telefone);
 		printf("\nE-mail: %s\n", agenda[i].email);
-		printf("\n_____________________________________________\n\n");
+		printf("\n_____________________#_______________________\n\n");
 		}
 		
 		system("pause");
